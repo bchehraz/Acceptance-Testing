@@ -24,6 +24,12 @@
       <artifactId>jersey-test-framework-provider-grizzly2</artifactId>
       <version>2.23.2</version>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/orgin.seleniumhq.selenium/selenium-java-->
+    <dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+	<artifactId>selenium-java</artifactId>
+	<version>2.53.1</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>hangman-webapp</finalName>
